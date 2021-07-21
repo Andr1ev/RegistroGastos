@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistroGastos</string>
+
+    <string name="etLogin">Ingrese Usuario</string>
+    <string name="etPass">Ingrese Contraseña</string>
+
+
+</resources>

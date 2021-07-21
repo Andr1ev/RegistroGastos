@@ -1,0 +1,2 @@
+rootProject.name = "RegistroGastos"
+include ':app'
